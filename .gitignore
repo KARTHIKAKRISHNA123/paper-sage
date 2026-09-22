@@ -32,3 +32,5 @@ Thumbs.db
 
 # Uncomment if you don't want source PDFs tracked in git (keeps repo small):
 # data/pdfs/
+
+RAG_pipeline.ipynb
